@@ -1,7 +1,6 @@
-# My Resume
+# About me:
 
-### Summary
+### IT undergraduate
 
-My resume I made using plain HTML5 & CSS.
-https://rjbasitali.github.io/
+just tryna be better day by day.
 
