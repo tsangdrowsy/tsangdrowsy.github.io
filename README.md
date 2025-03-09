@@ -1,6 +1,6 @@
 # About me:
 
-### IT undergraduate
+### IT undergraduate.
 
 just tryna be better day by day.
 
