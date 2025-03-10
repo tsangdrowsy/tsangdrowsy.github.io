@@ -1,0 +1,3 @@
+﻿  gh1.cpp
+C:\Users\Admin\source\repos\gh1\gh1\gh1.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  gh1.vcxproj -> C:\Users\Admin\source\repos\gh1\gh1\x64\Debug\gh1.exe
